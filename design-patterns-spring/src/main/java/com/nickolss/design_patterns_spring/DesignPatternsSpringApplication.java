@@ -1,4 +1,4 @@
-package com.nickolas.design_patterns_spring;
+package com.nickolss.design_patterns_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
